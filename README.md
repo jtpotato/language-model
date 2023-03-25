@@ -1,0 +1,1 @@
+An experiment to see if ChatGPT can make its own basic next-word-prediction model
